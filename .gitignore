@@ -1,0 +1,13 @@
+# Node
+**/node_modules/
+**/dist/
+
+# Docker
+pgdata/
+n8n_data/
+
+# Vite
+frontend/.vite/
+
+# Env
+.env
